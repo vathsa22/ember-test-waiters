@@ -6,8 +6,7 @@ import type {
   TestWaiterDebugInfo,
   Waiter,
   WaiterName,
-} from '@ember/test-waiters/types';
-import type { Token } from '@ember/test-waiters';
+} from '@ember/test-waiters/__private__/types';
 import {
   _reset,
   _resetWaiterNames,
