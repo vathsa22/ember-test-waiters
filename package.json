@@ -16,9 +16,11 @@
     "test": "pnpm --filter '*' test"
   },
   "devDependencies": {
+    "@glint/core": "^1.4.0",
     "concurrently": "^8.2.1",
+    "prettier": "^3.2.5",
     "release-plan": "^0.8.0",
-    "prettier": "^3.2.5"
+    "typescript": "~5.0.0"
   },
   "pnpm": {
     "overrides_notes": {
