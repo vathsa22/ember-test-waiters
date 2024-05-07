@@ -17,6 +17,7 @@ import {
   register,
   unregister,
 } from '@ember/test-waiters';
+import type { Token } from '@ember/test-waiters';
 import { module, test } from 'qunit';
 
 import { DEBUG } from '@glimmer/env';

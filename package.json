@@ -17,7 +17,8 @@
   },
   "devDependencies": {
     "concurrently": "^8.2.1",
-    "release-plan": "^0.8.0"
+    "release-plan": "^0.8.0",
+    "prettier": "^3.2.5"
   },
   "pnpm": {
     "overrides_notes": {
